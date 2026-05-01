@@ -1,13 +1,13 @@
 function NavBar() {
   return (
     <nav className="navbar">
-      <h2>React Lab 01</h2>
+      <h2>React Lab </h2>
 
       <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#products">Products</a></li>
-        <li><a href="#testimonial">Testimonial</a></li>
-        <li><a href="#footer">Contact</a></li>
+        <li><a href="#home">HOME</a></li>
+        <li><a href="#products">PRODUCTS</a></li>
+        <li><a href="#testimonial">TESTIMONIAL</a></li>
+        <li><a href="#footer">CONTACT</a></li>
       </ul>
     </nav>
   );
