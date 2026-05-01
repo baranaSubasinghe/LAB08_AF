@@ -6,4 +6,5 @@ function Button({ text, type, size }) {
   );
 }
 
+
 export default Button;

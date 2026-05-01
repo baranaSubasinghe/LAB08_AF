@@ -6,7 +6,7 @@ function Card() {
         alt="Online Service" 
       />
 
-      <h3>Web Development Service</h3>
+      <h3> Web Development Service </h3>
       <p>
         We create modern and responsive websites using React JS for businesses,
         students, and organizations.

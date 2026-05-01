@@ -7,7 +7,7 @@ function Testimonial() {
       />
 
       <blockquote>
-        "This React project helped me understand how components work clearly."
+        "This React project helped me understand how components work clearly ."
       </blockquote>
 
       <h4>- Sanduni Perera</h4>
